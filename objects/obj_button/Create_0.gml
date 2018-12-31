@@ -10,3 +10,4 @@ temp = "";
 //	game_restart();
 //}
 
+//wtf is this?
